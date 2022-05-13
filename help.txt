@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>MyApp</title>
+<body bgcolor=black>
+<Center>
+<font color="white"><h2>Qarzhau<font color="magenta">Ramazan</font><br>
+
+<font color="gold"><H1 ID="elastic" ALIGN="Center">app runner</H1>
+
+<br>
+<font color="gold">Version 3.0</font>
+</body>
+</Html>
